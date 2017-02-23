@@ -2,12 +2,12 @@
 ![](https://camo.githubusercontent.com/bde5aa6ee0e1feec044d184a735da8024c60c04c/687474703a2f2f692e696d6775722e636f6d2f427771486842342e706e67)
 ![](https://camo.githubusercontent.com/e357193ca51e358b7471de58d4071c3a418d1c0e/68747470733a2f2f696d672e736869656c64732e696f2f636f636f61706f64732f64742f4368616d656c656f6e4672616d65776f726b2e7376673f6d61784167653d3836343030) ![](https://camo.githubusercontent.com/c513912483f083fbfb83d2c3a7d3de3fb4cb698d/68747470733a2f2f696d672e736869656c64732e696f2f636f636f61706f64732f61742f4368616d656c656f6e4672616d65776f726b2e7376673f6d61784167653d3836343030) ![](https://camo.githubusercontent.com/94c0991fef8c45ae43b5d8527b6ab331c0b7a379/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706c6174666f726d2d694f53253230382532422d626c75652e7376673f7374796c653d666c6174)
 
-[● 基本使用](https://github.com/wangMengLiang/MyAnimationDemo/blob/master/#MyAnimationDemo-基本使用)
+[● 基本使用](https://github.com/wangMengLiang/MyAnimationDemo#-基本使用)
 
-####基础动画和Tab过渡动画
+##基础动画和Tab过渡动画
 ![](https://github.com/wangMengLiang/MyAnimationDemo/blob/master/Untitled.gif)
 
-###效果图（可下载demo真机运行效果更好）
+##效果图（可下载demo真机运行效果更好）
 截图中，左上角的开关代表push和present，所有效果都支持手势，我就不一一演示了
 
 1、CircleSpreadTransition 小圆点扩散
